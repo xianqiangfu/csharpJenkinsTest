@@ -1,0 +1,7 @@
+G:\tmp\csharp\JenkinsTest\JenkinsTestTests\bin\Debug\JenkinsTestTests.dll
+G:\tmp\csharp\JenkinsTest\JenkinsTestTests\bin\Debug\JenkinsTestTests.pdb
+G:\tmp\csharp\JenkinsTest\JenkinsTestTests\bin\Debug\JenkinsTest.exe
+G:\tmp\csharp\JenkinsTest\JenkinsTestTests\bin\Debug\JenkinsTest.pdb
+G:\tmp\csharp\JenkinsTest\JenkinsTestTests\obj\Debug\JenkinsTestTests.csprojResolveAssemblyReference.cache
+G:\tmp\csharp\JenkinsTest\JenkinsTestTests\obj\Debug\JenkinsTestTests.dll
+G:\tmp\csharp\JenkinsTest\JenkinsTestTests\obj\Debug\JenkinsTestTests.pdb
